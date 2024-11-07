@@ -14,7 +14,7 @@ extra_warnings="-Wextra -Wno-unused-parameter -Wpointer-arith -Wreturn-type -Wca
 #################  command line options  ##################
 
 mingw=false
-python=python2
+python=python3
 gtk=gtk+-3.0
 daq_request=autodetect
 gpib_request=autodetect
